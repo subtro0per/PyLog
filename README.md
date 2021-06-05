@@ -2,7 +2,7 @@
 Open source python module to create logs when you program a python script.
 
 Informations:
-    - The log files will be created in the path of the cmd window from which you are running your python script.
+    - The log files will be created in the path of the cmd window from which you are running your python script.\n
     - Write normal logs with 'pylog.writeLog(log_text)'
     - Write errro logs with 'pylog.writeError(log_error_text, error)'
     - Write placeholder logs with 'pylog.writePlaceholder(log_placeholder_text)'
